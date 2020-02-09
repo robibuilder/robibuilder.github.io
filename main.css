@@ -1,0 +1,22 @@
+/* ----- CSS TEMPLATE BY JACOB ROBINETT JACOBROBINETT.COM ----- */
+
+/* ----- CUSTOM FONTS ----- */
+
+.console{
+    font-size: 14px;
+     font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono", "Lucida Console", Monaco, monospace;
+}
+
+.App{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+/* ----- MIDDLE ----- */
+
+.middle {
+        position: absolute;
+        top: 20%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
