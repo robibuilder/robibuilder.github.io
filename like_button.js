@@ -1,4 +1,4 @@
-/*'use strict';
+'use strict';
 
 const e = React.createElement;
 
@@ -21,7 +21,7 @@ class LikeButton extends React.Component {
   }
 }
 
-*/
+
 
 import React from 'react'
 
